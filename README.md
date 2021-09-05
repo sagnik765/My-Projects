@@ -5,6 +5,8 @@ Machine Learning Projects    https://github.com/sagnik765/Machine-Learning-Proje
 
 Deep Learning Projects    https://github.com/sagnik765/Deep-Learning-Projects
 
+SQL Projects    https://github.com/sagnik765/SQL-Projects
+
 Basic Python Programs    https://github.com/sagnik765/Basic-Python-Projects
 
 Arduino and Embedded System Projects    https://github.com/sagnik765/Arduino-Projects
