@@ -10,7 +10,7 @@ All my Github Projects are stored in one place for your convenience. Please look
 
 1. Machine Learning Projects (Supervised Learning)    https://github.com/sagnik765/Machine-Learning-Projects--Supervised-Learning-
 
-2. Deep Learning Projects    https://github.com/sagnik765/Deep-Learning-Projects
+2. Deep Learning Projects (Object Detection)    https://github.com/sagnik765/Deep-Learning-Projects--Object-Detection-
 
 3. Python Projects    https://github.com/sagnik765/Python-Projects
 
