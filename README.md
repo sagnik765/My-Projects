@@ -14,7 +14,7 @@ All my Github Projects are stored in one place for your convenience. Please look
 
 3. NLP Projects   https://github.com/sagnik765/NLP-Projects
 
-4. Python Projects    https://github.com/sagnik765/Python-Projects
+4. Python Projects (Data Structures)    https://github.com/sagnik765/Python-Projects
 
 5. Arduino and Embedded System Projects    https://github.com/sagnik765/Arduino-Projects
 
