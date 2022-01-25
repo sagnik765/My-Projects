@@ -18,5 +18,3 @@ All my Github Projects are stored in one place for your convenience. Please look
 
 5. Arduino and Embedded System Projects (IoT)    https://github.com/sagnik765/Arduino-Projects
 
-6. SQL Projects    https://github.com/sagnik765/SQL-Projects
-
