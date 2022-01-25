@@ -1,4 +1,4 @@
-# All-my-Projects
+# My-Projects
 
 LinkedIn Profile: https://www.linkedin.com/in/sagnik-roy-2001/
 
