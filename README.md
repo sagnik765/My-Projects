@@ -14,7 +14,7 @@ All my Github Projects are stored in one place for your convenience. Please look
 
 4. Big Data Projects     https://github.com/sagnik765/Big-Data-Projects 
 
-5. Other Projects    https://github.com/sagnik765/Other-Projects
+5. IoT and Embedded System Projects (Arduino)    https://github.com/sagnik765/Arduino-Projects
 
-6. IoT and Embedded System Projects (Arduino)    https://github.com/sagnik765/Arduino-Projects
+6. Other Projects    https://github.com/sagnik765/Other-Projects
 
