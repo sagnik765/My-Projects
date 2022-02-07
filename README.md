@@ -12,7 +12,9 @@ All my Github Projects are stored in one place for your convenience. Please look
 
 3. Machine Learning Projects     https://github.com/sagnik765/Machine-Learning-Projects
 
-4. Other Projects    https://github.com/sagnik765/Other-Projects
+4. Big Data Projects  
 
-5. IoT and Embedded System Projects (Arduino)    https://github.com/sagnik765/Arduino-Projects
+5. Other Projects    https://github.com/sagnik765/Other-Projects
+
+6. IoT and Embedded System Projects (Arduino)    https://github.com/sagnik765/Arduino-Projects
 
