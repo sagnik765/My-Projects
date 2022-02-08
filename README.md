@@ -16,3 +16,8 @@ All my Github Projects are stored in one place for your convenience. Please look
 
 5. Other Projects    https://github.com/sagnik765/Other-Projects
 
+//
+
+6. Basic Programs    https://github.com/sagnik765/Basic-Projects
+
+//
