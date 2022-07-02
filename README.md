@@ -4,7 +4,7 @@ LinkedIn Profile: https://www.linkedin.com/in/sagnik-roy-2001/
 
 //
 
-All my Github Projects are stored in one place for your convenience. Please look into it
+All my important Github Projects are stored in one place for your convenience. Please look into it
 
 1. Artificial Intelligence (AI) Projects   https://github.com/sagnik765/Artificial-Intelligence-Projects
 
